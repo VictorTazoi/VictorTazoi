@@ -13,7 +13,7 @@
   ##
  
 <div> 
-    <a href="https://instagram.com/VictorTazoi" target="_blank"><img src="https://img.shields.io/badge/%20-INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
+    <a href="https://instagram.com/victor_tazoi" target="_blank"><img src="https://img.shields.io/badge/%20-INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank"></a>
     <a href = "mailto:victortazoi@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-black?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
     <a href="https://www.linkedin.com/in/victor-tazoi-37671a21b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a> 
 </div>
