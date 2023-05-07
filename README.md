@@ -1,7 +1,7 @@
 ## Victor Tazoi
 
-- Técnico em Desenvolvimento de Sistemas
-- Engenharia de Computação - FHO
+- Técnico em Desenvolvimento de Sistemas | ETEC
+- Engenharia de Computação | FHO
 
 <div align="center">
   <a href="https://github.com/VictorTazoi">
