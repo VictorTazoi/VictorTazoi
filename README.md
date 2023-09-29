@@ -2,7 +2,7 @@
 
 - Técnico em Desenvolvimento de Sistemas | ETEC
 - Engenharia de Computação | FHO
-
+<!--
 <div align="center">
   <a href="https://github.com/VictorTazoi">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VictorTazoi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,7 @@
     <img align="center" alt="Victor-Cpluplus" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
     <img align="center" alt="Victor-Cpluplus" width="40" src="https://logodownload.org/wp-content/uploads/2019/03/arduino-logo-0.png">
 </div>
-  
+-->
   ##
  
 <div> 
