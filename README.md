@@ -1,7 +1,9 @@
 ## Victor Tazoi
 
-- Técnico em Desenvolvimento de Sistemas | ETEC
-- Engenharia de Computação | FHO
+- Cursado Técnico em Desenvolvimento de Sistemas | ETEC
+- Graduando em Engenharia de Computação | FHO
+- Atuando na área de Suporte Técnico em ISP | SpaceNET TELECOM ltda
+- Desenvolvedor Freelancer
 <!--
 <div align="center">
   <a href="https://github.com/VictorTazoi">
