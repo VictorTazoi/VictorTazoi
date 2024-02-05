@@ -2,7 +2,7 @@
 
 - Técnico em Desenvolvimento de Sistemas | ETEC
 - Graduando em Engenharia de Computação | FHO
-- experiência em Suporte Técnico | SpaceNET TELECOM ltda
+- Experiência em Suporte Técnico | SpaceNET TELECOM ltda
 - Desenvolvedor Freelancer
 <!--
 <div align="center">
