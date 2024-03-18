@@ -2,8 +2,7 @@
 
 - Técnico em Desenvolvimento de Sistemas | ETEC
 - Graduando em Engenharia de Computação | FHO
-- Experiência em Suporte Técnico | SpaceNET TELECOM ltda
-- Desenvolvedor Freelancer
+- Assistente de TI | Umaflex
 <!--
 <div align="center">
   <a href="https://github.com/VictorTazoi">
