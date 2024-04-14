@@ -3,6 +3,8 @@
 - Técnico em Desenvolvimento de Sistemas | ETEC
 - Graduando em Engenharia de Computação | FHO
 - Assistente de TI | Umaflex
+
+Meu objetivo profissional é que com os conhecimentos obtidos no curso de Engenharia de Computação e com a formação técnica em Análise e Desenvolvimento de Sistemas, eu possa contribuir para a melhoria dos processos de produção, focando tanto em hardware quanto em software, buscando sempre agilizar operações e otimizar os métodos atuais.
 <!--
 <div align="center">
   <a href="https://github.com/VictorTazoi">
