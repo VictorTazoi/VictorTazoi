@@ -1,8 +1,8 @@
 ## Victor Tazoi
 
-- Técnico em Desenvolvimento de Sistemas | ETEC
-- Graduando em Engenharia de Computação | FHO
-- Assistente de TI | Umaflex
+Graduando em Engenharia de Computação, com formação técnica em Análise e Desenvolvimento de Sistemas. 
+Atualmente, atuo como Técnico de TI, adquirindo experiência prática em suporte técnico, redes, infraestrutura e segurança da informação.
+Tenho grande interesse nas áreas de cibersegurança e automação, estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e contribuir para projetos inovadores na área de tecnologia.
 
 <!--
 <div align="center">
