@@ -2,9 +2,9 @@
 
 Graduando em Engenharia de Computação, com formação técnica em Análise e Desenvolvimento de Sistemas. 
 
-Atualmente, atuo como Técnico de TI, adquirindo experiência prática em suporte técnico, redes, infraestrutura e segurança da informação.
+Atualmente, atuo como Técnico de TI, com experiência prática em suporte técnico, redes, infraestrutura e segurança da informação.
 
-Tenho grande interesse nas áreas de cibersegurança e automação, estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e contribuir para projetos inovadores na área de tecnologia.
+Me aprofundo nas áreas de cibersegurança e automação, sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e contribuir para projetos inovadores na área de tecnologia.
 
 <!--
 <div align="center">
