@@ -9,7 +9,7 @@
 - 💼 Cargo: **Técnico de TI**
 - 📫 Contato: **victortazoi@hotmail.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/victortazoi/**
-- 
+  
 ---
 
 ### 🧠 Conhecimentos
