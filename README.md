@@ -5,7 +5,7 @@
 </p>
 
 - 🌱 Graduando em **Engenharia de Computação**
-- 💡 Conhecimento em **Técnico de Análise e Desenvolvimento de Sistemas**
+- 💡 Certificação em **Análise e Desenvolvimento de Sistemas**
 - 💼 Cargo: **Técnico de TI**
 - 📫 Contato: **victortazoi@hotmail.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/victortazoi/**
