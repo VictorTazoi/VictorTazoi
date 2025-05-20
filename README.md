@@ -1,31 +1,48 @@
-## Victor Tazoi
+<h1 align="center">Victor Kazuyoshi Tazoi</h1>
 
-Graduando em Engenharia de Computação, com formação técnica em Análise e Desenvolvimento de Sistemas. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=478BE6&center=true&vCenter=true&width=435&lines=Engenharia;Tecnologia;Desenvolvimento" alt="Typing SVG" />
+</p>
 
-Atualmente, atuo como Técnico de TI, com experiência prática em suporte técnico, redes, infraestrutura e segurança da informação.
+- 🌱 Graduando em **Engenharia de Computação**
+- 💡 Conhecimento em **Técnico de Análise e Desenvolvimento de Sistemas**
+- 💼 Cargo: **Técnico de TI**
+- 📫 Contato: **victortazoi@hotmail.com**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/victortazoi/**
 
-Me aprofundo nas áreas de cibersegurança e automação, sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e contribuir para projetos inovadores na área de tecnologia.
+---
 
-<!--
-<div align="center">
-  <a href="https://github.com/VictorTazoi">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VictorTazoi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTazoi&layout=compact&langs_count=7&theme=dark"/>
-</div>
+### 🧰 Tecnologias & Ferramentas
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Victor-Cpluplus" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg">
-    <img align="center" alt="Victor-Cpluplus" width="40" src="https://logodownload.org/wp-content/uploads/2019/03/arduino-logo-0.png">
-</div>
--->
-  ##
- 
-<div> 
-    <a href="https://instagram.com/victor_tazoi" target="_blank"><img src="https://img.shields.io/badge/%20-INSTAGRAM-343946?style=for-the-badge&logo=instagram&logoColor=3134AFFF" target="_blank"></a>
-    <a href = "mailto:victortazoi@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-343946?style=for-the-badge&logo=gmail&logoColor=0072C6" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/victor-tazoi-37671a21b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-343946?style=for-the-badge&logo=linkedin&logoColor=0E76A8" target="_blank"></a> 
-</div>
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=cpp)
+![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=csharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+
+---
+
+### 📊 Estatísticas
+
+<p align="center" style="max-width: 100%; overflow-x: auto;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=VictorTazoi&show_icons=true&theme=tokyonight" 
+    alt="GitHub stats" 
+    style="max-width: 100%; height: auto; display: block; margin: 0 auto;"
+  />
+</p>
+
+
+---
+
+### 🧠 Habilidades
+
+- **Extreme Hacking - Penetration Testing Process** — [Ver certificado](https://app.extremehacking.io/meta/achievement/75c3e29e-5f32-4f61-85b7-03cd67bf6b2e/)
+- **Extreme Hacking - Incident Handling Process** — [Ver certificado](https://app.extremehacking.io/meta/achievement/fee22195-a364-414a-8afa-2d6c0c5e12d6/)
+- **Cisco - Network Support and Security** — [Ver certificado](https://www.credly.com/badges/1cbca0ee-f07d-4216-a62d-1eb6cc761f26/linked_in_profile)
+- **Cisco - Introduction to IoT** — [Ver certificado](https://www.credly.com/badges/55e182d6-8f31-4a49-a5c2-74831cac36a0/linked_in_profile)
+
+---
