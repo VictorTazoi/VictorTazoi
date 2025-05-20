@@ -9,6 +9,15 @@
 - 💼 Cargo: **Técnico de TI**
 - 📫 Contato: **victortazoi@hotmail.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/victortazoi/**
+- 
+---
+
+### 🧠 Conhecimentos
+
+- **Extreme Hacking - Penetration Testing Process** — [Ver certificado](https://app.extremehacking.io/meta/achievement/75c3e29e-5f32-4f61-85b7-03cd67bf6b2e/)
+- **Extreme Hacking - Incident Handling Process** — [Ver certificado](https://app.extremehacking.io/meta/achievement/fee22195-a364-414a-8afa-2d6c0c5e12d6/)
+- **Cisco - Network Support and Security** — [Ver certificado](https://www.credly.com/badges/1cbca0ee-f07d-4216-a62d-1eb6cc761f26/linked_in_profile)
+- **Cisco - Introduction to IoT** — [Ver certificado](https://www.credly.com/badges/55e182d6-8f31-4a49-a5c2-74831cac36a0/linked_in_profile)
 
 ---
 
@@ -35,14 +44,4 @@
   />
 </p>
 
-
----
-
-### 🧠 Habilidades
-
-- **Extreme Hacking - Penetration Testing Process** — [Ver certificado](https://app.extremehacking.io/meta/achievement/75c3e29e-5f32-4f61-85b7-03cd67bf6b2e/)
-- **Extreme Hacking - Incident Handling Process** — [Ver certificado](https://app.extremehacking.io/meta/achievement/fee22195-a364-414a-8afa-2d6c0c5e12d6/)
-- **Cisco - Network Support and Security** — [Ver certificado](https://www.credly.com/badges/1cbca0ee-f07d-4216-a62d-1eb6cc761f26/linked_in_profile)
-- **Cisco - Introduction to IoT** — [Ver certificado](https://www.credly.com/badges/55e182d6-8f31-4a49-a5c2-74831cac36a0/linked_in_profile)
-
----
+ ---
